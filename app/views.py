@@ -11,4 +11,4 @@ def home(request):
 def first(request):
     data = {'name':'Merida!!!'}
 
-    return render(request,'first.html',data)
+    return render(request,'first.html',datax)
